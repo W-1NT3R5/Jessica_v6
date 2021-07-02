@@ -1,0 +1,30 @@
+*{
+    margin: none;
+    padding: none;
+    border: none;
+}
+body{
+    background-color: black;
+}
+#jessica{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin-top: 20%;
+    text-align: center;
+    font-size: 100px;
+    animation: jessica 2s linear 2s infinite alternate-reverse;
+}
+@keyframes jessica {
+    from{
+        color: rgb(13, 13, 14);
+    }
+    100%{
+        color: red;
+    }
+}
+#dev{
+    position: relative;
+    color: white;
+    margin-left: 42.5%;
+    margin-top: 20%;
+    font-size: 20px;
+}

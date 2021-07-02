@@ -1,0 +1,1 @@
+start wmplayer "C:\Users\Public\Music\Sample Music\nights.mp3" 

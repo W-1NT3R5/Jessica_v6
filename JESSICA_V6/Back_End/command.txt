@@ -1,0 +1,10 @@
+open notepad
+open paint
+open calculator
+
+play night
+play strike
+play cloud
+
+game san
+
